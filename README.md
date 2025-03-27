@@ -1,6 +1,9 @@
 # Offline-BGEE-Random-Party-Generator
 A simple tool to make random party suggestions for the Baldur's Gate Enhanced Edition series quickly and easily.
 
+How to Launch:
+Double-click the file that says "BGEE_Random_Party_Generator" and is an application type file, the icon should have a brown-ish color with a little circle in the middle.
+
 If, like me, you like to start new games of BGEE over and over with the intention of doing a "no-reload" run, and if, like me, you get bored of making the same characters again and again, and you want some variety, then this is for you.
 
 This software, when you click the "Generate My New Party" button, will randomly choose the gender, race, class, alignment and provide a short suggested name for the character.
